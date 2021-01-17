@@ -1,0 +1,4 @@
+sv ans 35.0
+sv b 6.0
+sr x  5.0 + 5.0
+sr y  x * x
